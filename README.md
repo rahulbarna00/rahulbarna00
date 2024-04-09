@@ -5,7 +5,6 @@
 -  🎓 Currently, a third-year student pursuing Computer Science Engineering
 -   Ask me about Full Stack Web development , Android Development , Data Structures<br>
 
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulbarna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulbarna) [![Leetcode](https://img.shields.io/badge/Leetcode-%23593d88.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/rahulbarna) 
 
