@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 -  🧑🏽‍💻 I am a Full Stack Developer. 
--  🎓 Currently, a third-year student pursuing Computer Science Engineering
+-  🎓 Currently, a Final year student pursuing Computer Science Engineering
 -   Ask me about Full Stack Web development , Android Development , Data Structures<br>
 
 # 🌐 Socials:
